@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TapeLeLapin</string>
+    <string name="action_settings">Settings</string>
+    <string name="touchRabbit">Touche le Lapin</string>
+    <string name="emptyButton"> </string>
+    <string name="pafs">0 pafs</string>
+    <string name="flops">0 flops</string>
+</resources>
